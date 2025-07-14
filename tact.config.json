@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/tact-lang/tact/main/src/config/configSchema.json",
+  "projects": [
+    {
+      "name": "ExploringTonTact",
+      "path": "contracts/exploring_ton_tact.tact",
+      "output": "build/ExploringTonTact",
+      "options": {
+        "debug": false,
+        "external": false
+      },
+      "mode": "full"
+    }
+  ]
+}
